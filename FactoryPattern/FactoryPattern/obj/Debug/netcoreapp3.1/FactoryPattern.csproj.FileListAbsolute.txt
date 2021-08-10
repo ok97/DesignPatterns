@@ -1,0 +1,13 @@
+E:\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+E:\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+E:\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+E:\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+E:\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+E:\Design Pattern\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+E:\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.AssemblyReference.cache
+E:\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+E:\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+E:\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+E:\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
+E:\Design Pattern\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache
